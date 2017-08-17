@@ -1,0 +1,35 @@
+{
+    "title": "My Website",
+    "name": "Christine Mitry",
+    "version": "4.0.0-alpha",
+    "description": "Christine Mitry's Website",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "bugs": {
+        "url": "https://github.com/falafels/falafels.github.io/issues",
+    },
+    "license": "MIT",
+    "author": "Christine Mitry",
+    "contributors": [
+        "Christine Mitry (http://github.com/falafels)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/falafels/falafels.github.io.git"
+    },
+    "dependencies": {
+        "bootstrap": "^4.0.0-alpha.6",
+        "jquery": "^3.2.1",
+        "popper.js": "^1.11.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.18.13",
+        "gulp": "^3.9.1"
+    }
+}
